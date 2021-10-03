@@ -13,6 +13,7 @@
 7. [**Получения изменений с удаленного репозитория.**](./git_fetch.md)
 8. [**Отправка изменений в репозиторий.**](./git_push.md)
 9. [**Состояние репозитория.**](./git_status.md)
+10. [**Заключение**](./conclusion.md)
 ---
 Git iogo by Jason log - http://git-scm.com/dow loads/logos, license [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
